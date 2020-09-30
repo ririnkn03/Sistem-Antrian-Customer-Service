@@ -1,0 +1,5 @@
+Merancang dan Mendesign UI
+Memilih Framework Front End
+Mengubah Design ke Code
+Membuat Responsive UI
+Testing dan Penanganan Bug
